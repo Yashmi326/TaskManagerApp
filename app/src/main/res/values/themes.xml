@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.TaskManagerApp" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/pastel_primary</item>
+        <item name="colorPrimaryVariant">@color/pastel_primary_dark</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="android:windowBackground">@color/pastel_background</item>
+    </style>
+</resources>

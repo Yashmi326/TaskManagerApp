@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#B39DDB</color>
+    <color name="purple_500">#7E57C2</color>
+    <color name="purple_700">#512DA8</color>
+    <color name="teal_200">#80CBC4</color>
+    <color name="teal_700">#00796B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Cute pink pastel colors -->
+    <color name="pastel_primary">#F48FB1</color>       <!-- soft pink -->
+    <color name="pastel_primary_dark">#F06292</color>  <!-- deeper pink -->
+    <color name="pastel_background">#FFF0F5</color>    <!-- very light pink bg -->
+    <color name="pastel_fab">#F48FB1</color>           <!-- pink fab -->
+    <color name="pastel_text_dark">#4A4A4A</color>     <!-- dark gray for text -->
+</resources>
